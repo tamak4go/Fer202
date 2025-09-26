@@ -34,8 +34,10 @@ console.log(`city: ${city}\n`);
 
 // Exercise 4: Destructuring array
 console.log("4️⃣ Exercise 4: Destructuring Array");
-const ages = [33, 12, 20, 16];
+const ages = [33, 12, 20, 16, 66, 45, 18, 25];
 const [first, , third = 0, ...restAges] = ages;
+const total = restAges.reduce((acc, age) => acc + age, 0);
+
 
 console.log(`first: ${first}`);
 console.log(`third: ${third}`);
