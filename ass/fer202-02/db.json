@@ -1,0 +1,90 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "john_doe",
+      "password": "password123",
+      "fullName": "John Doe"
+    },
+    {
+      "id": "2",
+      "username": "jane_smith",
+      "password": "securepass456",
+      "fullName": "Jane Smith"
+    }
+  ],
+  "expenses": [
+    {
+      "id": "1",
+      "userId": 1,
+      "name": "Grocery Shopping",
+      "amount": 1500000,
+      "category": "Food",
+      "date": "15/11/2024"
+    },
+    {
+      "id": "2",
+      "userId": 1,
+      "name": "Electric Bill",
+      "amount": 800000,
+      "category": "Utilities",
+      "date": "10/11/2024"
+    },
+    {
+      "id": "3",
+      "userId": 1,
+      "name": "Coffee",
+      "amount": 50000,
+      "category": "Food",
+      "date": "12/11/2024"
+    },
+    {
+      "id": "4",
+      "userId": 1,
+      "name": "Movie Tickets",
+      "amount": 200000,
+      "category": "Entertainment",
+      "date": "14/11/2024"
+    },
+    {
+      "id": "5",
+      "userId": 1,
+      "name": "Gym Membership",
+      "amount": 500000,
+      "category": "Health",
+      "date": "01/11/2024"
+    },
+    {
+      "id": "6",
+      "userId": 2,
+      "name": "Restaurant",
+      "amount": 300000,
+      "category": "Food",
+      "date": "13/11/2024"
+    },
+    {
+      "id": "7",
+      "userId": 2,
+      "name": "Gas",
+      "amount": 600000,
+      "category": "Transportation",
+      "date": "11/11/2024"
+    },
+    {
+      "id": "521a",
+      "name": "ha",
+      "amount": 2000000,
+      "category": "gg",
+      "date": "16/11/2022",
+      "userId": "2"
+    },
+    {
+      "id": "2913",
+      "name": "ai",
+      "amount": 288.888888,
+      "category": "Health",
+      "date": "16/02/2004",
+      "userId": "2"
+    }
+  ]
+}

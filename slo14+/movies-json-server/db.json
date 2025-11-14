@@ -1,16 +1,37 @@
 {
   "genres": [
-    { "id": 1, "name": "Sci-Fi" },
-    { "id": 2, "name": "Comedy" },
-    { "id": 3, "name": "Drama" },
-    { "id": 4, "name": "Horror" },
-    { "id": 5, "name": "Romance" },
-    { "id": 6, "name": "Action" },
-    { "id": 7, "name": "Thriller" }
+    {
+      "id": "1",
+      "name": "Sci-Fi"
+    },
+    {
+      "id": "2",
+      "name": "Comedy"
+    },
+    {
+      "id": "3",
+      "name": "Drama"
+    },
+    {
+      "id": "4",
+      "name": "Horror"
+    },
+    {
+      "id": "5",
+      "name": "Romance"
+    },
+    {
+      "id": "6",
+      "name": "Action"
+    },
+    {
+      "id": "7",
+      "name": "Thriller"
+    }
   ],
   "accounts": [
     {
-      "id": 1,
+      "id": "1",
       "username": "admin",
       "password": "admin123",
       "fullName": "Quản trị viên",
@@ -18,7 +39,7 @@
       "role": "admin"
     },
     {
-      "id": 2,
+      "id": "2",
       "username": "user",
       "password": "user123",
       "fullName": "Người dùng",
@@ -28,7 +49,7 @@
   ],
   "movies": [
     {
-      "id": 1,
+      "id": "1",
       "title": "Galactic Wars",
       "description": "Epic space battles decide the fate of a fractured galaxy as rival factions clash for control.",
       "avatar": "https://via.placeholder.com/300x450/4A90E2/FFFFFF?text=Galactic+Wars",
@@ -38,7 +59,7 @@
       "duration": 132
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "Laugh Out Loud",
       "description": "A feel-good comedy about friendship, failure, and second chances in a small town.",
       "avatar": "https://via.placeholder.com/300x450/F5A623/FFFFFF?text=Laugh+Out+Loud",
@@ -48,7 +69,7 @@
       "duration": 105
     },
     {
-      "id": 3,
+      "id": "3",
       "title": "Deep Blue",
       "description": "A gripping survival drama set far from shore when a voyage goes wrong.",
       "avatar": "https://via.placeholder.com/300x450/50E3C2/FFFFFF?text=Deep+Blue",
@@ -58,7 +79,7 @@
       "duration": 118
     },
     {
-      "id": 4,
+      "id": "4",
       "title": "Haunted House",
       "description": "A teen dares to spend one night in a house with a dark past and uncovers the truth.",
       "avatar": "https://via.placeholder.com/300x450/BD10E0/FFFFFF?text=Haunted+House",
@@ -68,7 +89,7 @@
       "duration": 98
     },
     {
-      "id": 5,
+      "id": "5",
       "title": "City of Love",
       "description": "Two strangers meet in a sleepless city and rewrite their plans for life and love.",
       "avatar": "https://via.placeholder.com/300x450/D0021B/FFFFFF?text=City+of+Love",
@@ -78,7 +99,7 @@
       "duration": 110
     },
     {
-      "id": 6,
+      "id": "6",
       "title": "The Time Traveler",
       "description": "A brilliant scientist discovers a way to bend time at a cost no one could foresee.",
       "avatar": "https://via.placeholder.com/300x450/7ED321/FFFFFF?text=Time+Traveler",
@@ -88,7 +109,7 @@
       "duration": 124
     },
     {
-      "id": 7,
+      "id": "7",
       "title": "Street Runner",
       "description": "An ex-courier is forced back into the fast lane for one last job across the neon city.",
       "avatar": "https://via.placeholder.com/300x450/F8E71C/000000?text=Street+Runner",
@@ -98,7 +119,7 @@
       "duration": 102
     },
     {
-      "id": 8,
+      "id": "8",
       "title": "Hidden Truth",
       "description": "A reporter unravels a conspiracy that powerful people will do anything to keep buried.",
       "avatar": "https://via.placeholder.com/300x450/9013FE/FFFFFF?text=Hidden+Truth",
@@ -108,7 +129,7 @@
       "duration": 115
     },
     {
-      "id": 9,
+      "id": "9",
       "title": "Kingdom of Ash",
       "description": "A fallen prince must unite rival clans to reclaim a cursed land and his destiny.",
       "avatar": "https://via.placeholder.com/300x450/417505/FFFFFF?text=Kingdom+of+Ash",
